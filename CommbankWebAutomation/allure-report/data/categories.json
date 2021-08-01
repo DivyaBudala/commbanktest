@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found",
+      "children" : [ {
+        "name" : "Answer the Questions and try next battle",
+        "uid" : "425d8d230bea35c9",
+        "parentUid" : "52da0627764c1029827c01159e770d40",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627817012079,
+          "stop" : 1627817109778,
+          "duration" : 97699
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "5", "chrome" ]
+      }, {
+        "name" : "Answer the Questions and try next battle",
+        "uid" : "f9b85c429b37ece0",
+        "parentUid" : "52da0627764c1029827c01159e770d40",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627817371148,
+          "stop" : 1627817485480,
+          "duration" : 114332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "5", "chrome" ]
+      } ],
+      "uid" : "52da0627764c1029827c01159e770d40"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,191 @@
+{
+  "uid" : "9986625781ec146d",
+  "name" : "Answer the Question incorrectly and try again",
+  "fullName" : "Commbank -- Run Office BattleField Tests.Answer the Question incorrectly and try again",
+  "historyId" : "160d8431d9afc59af2572dbd95cd5368",
+  "time" : {
+    "start" : 1627817218589,
+    "stop" : 1627817257481,
+    "duration" : 38892
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I Navigate to Covid19 Game Application",
+      "time" : {
+        "start" : 1627817218591,
+        "stop" : 1627817224943,
+        "duration" : 6352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter Warrior Name",
+      "time" : {
+        "start" : 1627817224943,
+        "stop" : 1627817230256,
+        "duration" : 5313
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I click Create warrior button",
+      "time" : {
+        "start" : 1627817230256,
+        "stop" : 1627817238579,
+        "duration" : 8323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I choose go to office battle field",
+      "time" : {
+        "start" : 1627817238579,
+        "stop" : 1627817240547,
+        "duration" : 1968
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click Start button in office battle page",
+      "time" : {
+        "start" : 1627817240547,
+        "stop" : 1627817242655,
+        "duration" : 2108
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I answer office battle Question 1 incorrectly and try again",
+      "time" : {
+        "start" : 1627817242655,
+        "stop" : 1627817247998,
+        "duration" : 5343
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I answer office battle Question 1",
+      "time" : {
+        "start" : 1627817247998,
+        "stop" : 1627817253199,
+        "duration" : 5201
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I verify office score",
+      "time" : {
+        "start" : 1627817253199,
+        "stop" : 1627817257480,
+        "duration" : 4281
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Commbank -- Run Office BattleField Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Commbank -- Run Office BattleField Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Answer the Question incorrectly and try again"
+  }, {
+    "name" : "package",
+    "value" : "Commbank -- Run Office BattleField Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Scenario #",
+    "value" : "2"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9986625781ec146d.json",
+  "parameterValues" : [ "2", "chrome" ]
+}

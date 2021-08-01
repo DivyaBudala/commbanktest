@@ -1,0 +1,236 @@
+{
+  "uid" : "f9b85c429b37ece0",
+  "name" : "Answer the Questions and try next battle",
+  "fullName" : "Commbank -- Run Office BattleField Tests.Answer the Questions and try next battle",
+  "historyId" : "9e9c81f16fd57dd1db6c29db42332910",
+  "time" : {
+    "start" : 1627817371148,
+    "stop" : 1627817485480,
+    "duration" : 114332
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:22:13)\n                    at Element.runCommandWithHooks (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at BusTests.TryNextBattle (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\src\\step-definitions\\BusTests.steps.ts:49:60)\n                    at World.bindingFunc (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\cucumber-tsflow\\src\\binding-decorator.ts:172:22)\n                    at World.executeSync (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\index.js:44:18)\n                    at C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\index.js:84:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found",
+    "statusTrace" : "Error: Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:22:13)\n                    at Element.runCommandWithHooks (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at BusTests.TryNextBattle (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\src\\step-definitions\\BusTests.steps.ts:49:60)\n                    at World.bindingFunc (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\cucumber-tsflow\\src\\binding-decorator.ts:172:22)\n                    at World.executeSync (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\index.js:44:18)\n                    at C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\index.js:84:70",
+    "steps" : [ {
+      "name" : "Given I Navigate to Covid19 Game Application",
+      "time" : {
+        "start" : 1627817371150,
+        "stop" : 1627817377825,
+        "duration" : 6675
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter Warrior Name",
+      "time" : {
+        "start" : 1627817377825,
+        "stop" : 1627817383116,
+        "duration" : 5291
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I click Create warrior button",
+      "time" : {
+        "start" : 1627817383116,
+        "stop" : 1627817391560,
+        "duration" : 8444
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I choose go to office battle field",
+      "time" : {
+        "start" : 1627817391560,
+        "stop" : 1627817394040,
+        "duration" : 2480
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click Start button in office battle page",
+      "time" : {
+        "start" : 1627817394041,
+        "stop" : 1627817396159,
+        "duration" : 2118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I answer office battle Question 1",
+      "time" : {
+        "start" : 1627817396160,
+        "stop" : 1627817401404,
+        "duration" : 5244
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I try next battle from office page",
+      "time" : {
+        "start" : 1627817401404,
+        "stop" : 1627817408784,
+        "duration" : 7380
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click Start button in take bus battle page",
+      "time" : {
+        "start" : 1627817408784,
+        "stop" : 1627817410894,
+        "duration" : 2110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I answer Bus battle Question 1",
+      "time" : {
+        "start" : 1627817410895,
+        "stop" : 1627817416099,
+        "duration" : 5204
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I try next battle",
+      "time" : {
+        "start" : 1627817416099,
+        "stop" : 1627817485480,
+        "duration" : 69381
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:22:13)\n                    at Element.runCommandWithHooks (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at BusTests.TryNextBattle (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\src\\step-definitions\\BusTests.steps.ts:49:60)\n                    at World.bindingFunc (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\cucumber-tsflow\\src\\binding-decorator.ts:172:22)\n                    at World.executeSync (C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\index.js:44:18)\n                    at C:\\Users\\1027249\\Desktop\\Commbank\\CommbankWebAutomation\\node_modules\\@wdio\\sync\\build\\index.js:84:70",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eea03162ace4b92f",
+        "name" : "Screenshot",
+        "source" : "eea03162ace4b92f.png",
+        "type" : "image/png",
+        "size" : 416244
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Commbank -- Run Office BattleField Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Commbank -- Run Office BattleField Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Answer the Questions and try next battle"
+  }, {
+    "name" : "package",
+    "value" : "Commbank -- Run Office BattleField Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Scenario #",
+    "value" : "5"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f9b85c429b37ece0.json",
+  "parameterValues" : [ "5", "chrome" ]
+}

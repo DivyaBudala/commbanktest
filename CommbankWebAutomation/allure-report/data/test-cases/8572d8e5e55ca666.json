@@ -1,0 +1,206 @@
+{
+  "uid" : "8572d8e5e55ca666",
+  "name" : "Answer the Questions when you are at different places",
+  "fullName" : "Commbank -- Run Are you Game? BattleField Tests.Answer the Questions when you are at different places",
+  "historyId" : "6c1aa01f71323cfd858003bdcf67c033",
+  "time" : {
+    "start" : 1627816581042,
+    "stop" : 1627816637755,
+    "duration" : 56713
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I Navigate to Covid19 Game Application",
+      "time" : {
+        "start" : 1627816581048,
+        "stop" : 1627816591322,
+        "duration" : 10274
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter Warrior Name",
+      "time" : {
+        "start" : 1627816591323,
+        "stop" : 1627816596614,
+        "duration" : 5291
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I click Create warrior button",
+      "time" : {
+        "start" : 1627816596614,
+        "stop" : 1627816610221,
+        "duration" : 13607
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I choose Are You Game battle field",
+      "time" : {
+        "start" : 1627816610221,
+        "stop" : 1627816613569,
+        "duration" : 3348
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click Start button",
+      "time" : {
+        "start" : 1627816613569,
+        "stop" : 1627816615687,
+        "duration" : 2118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I answer Bus Question",
+      "time" : {
+        "start" : 1627816615688,
+        "stop" : 1627816621083,
+        "duration" : 5395
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I answer Office Question",
+      "time" : {
+        "start" : 1627816621083,
+        "stop" : 1627816626470,
+        "duration" : 5387
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I answer Restaurant Question",
+      "time" : {
+        "start" : 1627816626470,
+        "stop" : 1627816632646,
+        "duration" : 6176
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I check the leaderboard",
+      "time" : {
+        "start" : 1627816632646,
+        "stop" : 1627816637751,
+        "duration" : 5105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 9
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Commbank -- Run Are you Game? BattleField Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Commbank -- Run Are you Game? BattleField Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Answer the Questions when you are at different places"
+  }, {
+    "name" : "package",
+    "value" : "Commbank -- Run Are you Game? BattleField Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Scenario #",
+    "value" : "1"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8572d8e5e55ca666.json",
+  "parameterValues" : [ "1", "chrome" ]
+}

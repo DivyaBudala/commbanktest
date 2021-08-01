@@ -1,0 +1,327 @@
+{
+  "c73d9c42052457441349227bbd92c45e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2bb0a5f16f996be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627817114206,
+        "stop" : 1627817149630,
+        "duration" : 35424
+      }
+    } ]
+  },
+  "160d8431d9afc59af2572dbd95cd5368" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9986625781ec146d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627817218589,
+        "stop" : 1627817257481,
+        "duration" : 38892
+      }
+    } ]
+  },
+  "6a83dc2aba12807b9563fdb2a522f875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce842279827819cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816859766,
+        "stop" : 1627816897907,
+        "duration" : 38141
+      }
+    } ]
+  },
+  "c52eaf8e2fb5d85501e708fccb1b6364" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e63d1017a910315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816897909,
+        "stop" : 1627816958916,
+        "duration" : 61007
+      }
+    } ]
+  },
+  "bf31ea211fcf5a7d6121364d43aae44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "271f3e9db6fa639c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816670904,
+        "stop" : 1627816710267,
+        "duration" : 39363
+      }
+    } ]
+  },
+  "bf937ada0a7294237c648416cd55305f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "676999517ec3936e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816753744,
+        "stop" : 1627816808534,
+        "duration" : 54790
+      }
+    } ]
+  },
+  "9a2c0c1dc49c9d2f7a62f5a72d5930f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a390018d3ec1b993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816637759,
+        "stop" : 1627816670900,
+        "duration" : 33141
+      }
+    } ]
+  },
+  "9e9c81f16fd57dd1db6c29db42332910" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9b85c429b37ece0",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1627817371148,
+        "stop" : 1627817485480,
+        "duration" : 114332
+      }
+    } ]
+  },
+  "fc42ac2405ecb003496a932fbf100205" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b42d3a4991c2cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627817149631,
+        "stop" : 1627817170657,
+        "duration" : 21026
+      }
+    } ]
+  },
+  "14e7effb7c6201255c46e1033a1aa394" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3496f5826b42b14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816710269,
+        "stop" : 1627816753743,
+        "duration" : 43474
+      }
+    } ]
+  },
+  "1ddf59ea23a46f42c1e3295169ebe29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5252f40346e05377",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627817317774,
+        "stop" : 1627817371145,
+        "duration" : 53371
+      }
+    } ]
+  },
+  "102a6b86c35578abc8a1ebcd7b79d4d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "425d8d230bea35c9",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"//p[@id=\"question\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1627817012079,
+        "stop" : 1627817109778,
+        "duration" : 97699
+      }
+    } ]
+  },
+  "ce758d95ff3ab8a95debc00fe7fffa39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2522b8336400f4c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816958919,
+        "stop" : 1627817012078,
+        "duration" : 53159
+      }
+    } ]
+  },
+  "6c1aa01f71323cfd858003bdcf67c033" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8572d8e5e55ca666",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816581042,
+        "stop" : 1627816637755,
+        "duration" : 56713
+      }
+    } ]
+  },
+  "64d639b6faa55ff2b1a31749c1526db0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b37122ca718019f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627817174837,
+        "stop" : 1627817218585,
+        "duration" : 43748
+      }
+    } ]
+  },
+  "4cf56211981505bff4db38c28ece6b73" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38efe009ef5fb052",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627817257484,
+        "stop" : 1627817317773,
+        "duration" : 60289
+      }
+    } ]
+  },
+  "8ae3f85f3a061ec39786f52a805841e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "531d7df55b9da74d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627816812924,
+        "stop" : 1627816859763,
+        "duration" : 46839
+      }
+    } ]
+  }
+}

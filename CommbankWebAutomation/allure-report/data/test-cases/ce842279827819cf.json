@@ -1,0 +1,191 @@
+{
+  "uid" : "ce842279827819cf",
+  "name" : "Answer the Question incorrectly and try again",
+  "fullName" : "Commbank -- Run Take the Bus BattleField Tests.Answer the Question incorrectly and try again",
+  "historyId" : "6a83dc2aba12807b9563fdb2a522f875",
+  "time" : {
+    "start" : 1627816859766,
+    "stop" : 1627816897907,
+    "duration" : 38141
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I Navigate to Covid19 Game Application",
+      "time" : {
+        "start" : 1627816859771,
+        "stop" : 1627816866044,
+        "duration" : 6273
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter Warrior Name",
+      "time" : {
+        "start" : 1627816866044,
+        "stop" : 1627816871324,
+        "duration" : 5280
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I click Create warrior button",
+      "time" : {
+        "start" : 1627816871324,
+        "stop" : 1627816879653,
+        "duration" : 8329
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I choose take the bus battle field",
+      "time" : {
+        "start" : 1627816879653,
+        "stop" : 1627816881666,
+        "duration" : 2013
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click Start button in take bus battle page",
+      "time" : {
+        "start" : 1627816881666,
+        "stop" : 1627816883769,
+        "duration" : 2103
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I answer Bus battle Question 1 incorrectly and Try Again",
+      "time" : {
+        "start" : 1627816883769,
+        "stop" : 1627816889057,
+        "duration" : 5288
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I answer Bus battle Question 1",
+      "time" : {
+        "start" : 1627816889057,
+        "stop" : 1627816894276,
+        "duration" : 5219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I verify score",
+      "time" : {
+        "start" : 1627816894277,
+        "stop" : 1627816897904,
+        "duration" : 3627
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Commbank -- Run Take the Bus BattleField Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Commbank -- Run Take the Bus BattleField Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Answer the Question incorrectly and try again"
+  }, {
+    "name" : "package",
+    "value" : "Commbank -- Run Take the Bus BattleField Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Scenario #",
+    "value" : "2"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce842279827819cf.json",
+  "parameterValues" : [ "2", "chrome" ]
+}

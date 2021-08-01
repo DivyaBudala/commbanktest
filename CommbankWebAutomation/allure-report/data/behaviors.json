@@ -1,0 +1,226 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Answer the Questions when you are at different places",
+    "uid" : "8572d8e5e55ca666",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816581042,
+      "stop" : 1627816637755,
+      "duration" : 56713
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1", "chrome" ]
+  }, {
+    "name" : "Answer the public place question incorrectly",
+    "uid" : "a390018d3ec1b993",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816637759,
+      "stop" : 1627816670900,
+      "duration" : 33141
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "2", "chrome" ]
+  }, {
+    "name" : "Answer the office question incorrectly",
+    "uid" : "271f3e9db6fa639c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816670904,
+      "stop" : 1627816710267,
+      "duration" : 39363
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "3", "chrome" ]
+  }, {
+    "name" : "Answer the restaurant question incorrectly",
+    "uid" : "b3496f5826b42b14",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816710269,
+      "stop" : 1627816753743,
+      "duration" : 43474
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "chrome" ]
+  }, {
+    "name" : "Return to Home Page after timeout",
+    "uid" : "676999517ec3936e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816753744,
+      "stop" : 1627816808534,
+      "duration" : 54790
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "5", "chrome" ]
+  }, {
+    "name" : "Answer the Questions and check final score",
+    "uid" : "531d7df55b9da74d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816812924,
+      "stop" : 1627816859763,
+      "duration" : 46839
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1", "chrome" ]
+  }, {
+    "name" : "Answer the Question incorrectly and try again",
+    "uid" : "ce842279827819cf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816859766,
+      "stop" : 1627816897907,
+      "duration" : 38141
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "2", "chrome" ]
+  }, {
+    "name" : "Try again the Question after timeout",
+    "uid" : "4e63d1017a910315",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816897909,
+      "stop" : 1627816958916,
+      "duration" : 61007
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "3", "chrome" ]
+  }, {
+    "name" : "Return to Home page after timeout",
+    "uid" : "2522b8336400f4c2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627816958919,
+      "stop" : 1627817012078,
+      "duration" : 53159
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "chrome" ]
+  }, {
+    "name" : "Answer the Questions and try next battle",
+    "uid" : "425d8d230bea35c9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1627817012079,
+      "stop" : 1627817109778,
+      "duration" : 97699
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "5", "chrome" ]
+  }, {
+    "name" : "Create a Covid-19 Super Hero",
+    "uid" : "2bb0a5f16f996be3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627817114206,
+      "stop" : 1627817149630,
+      "duration" : 35424
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1", "chrome" ]
+  }, {
+    "name" : "Warrior Name Can't be more than 10 Characters",
+    "uid" : "9b42d3a4991c2cf0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627817149631,
+      "stop" : 1627817170657,
+      "duration" : 21026
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "2", "chrome" ]
+  }, {
+    "name" : "Answer the Questions and check final score",
+    "uid" : "b37122ca718019f6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627817174837,
+      "stop" : 1627817218585,
+      "duration" : 43748
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1", "chrome" ]
+  }, {
+    "name" : "Answer the Question incorrectly and try again",
+    "uid" : "9986625781ec146d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627817218589,
+      "stop" : 1627817257481,
+      "duration" : 38892
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "2", "chrome" ]
+  }, {
+    "name" : "Try again the Question after timeout",
+    "uid" : "38efe009ef5fb052",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627817257484,
+      "stop" : 1627817317773,
+      "duration" : 60289
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "3", "chrome" ]
+  }, {
+    "name" : "Return to Home page after timeout",
+    "uid" : "5252f40346e05377",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627817317774,
+      "stop" : 1627817371145,
+      "duration" : 53371
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "chrome" ]
+  }, {
+    "name" : "Answer the Questions and try next battle",
+    "uid" : "f9b85c429b37ece0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1627817371148,
+      "stop" : 1627817485480,
+      "duration" : 114332
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "5", "chrome" ]
+  } ]
+}

@@ -1,0 +1,327 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1627816581025' stop='1627816808535'>
+    <name>Commbank -- Run Are you Game? BattleField Tests</name>
+    <title>Commbank -- Run Are you Game? BattleField Tests</title>
+    <test-cases>
+        <test-case start='1627816581042' status='passed' stop='1627816637755'>
+            <name>Answer the Questions when you are at different places</name>
+            <title>Answer the Questions when you are at different places</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='1'/>
+            </parameters>
+            <steps>
+                <step start='1627816581048' status='passed' stop='1627816591322'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816591323' status='passed' stop='1627816596614'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816596614' status='passed' stop='1627816610221'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816610221' status='passed' stop='1627816613569'>
+                    <name>Then I choose Are You Game battle field</name>
+                    <title>Then I choose Are You Game battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816613569' status='passed' stop='1627816615687'>
+                    <name>When I click Start button</name>
+                    <title>When I click Start button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816615688' status='passed' stop='1627816621083'>
+                    <name>Then I answer Bus Question</name>
+                    <title>Then I answer Bus Question</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816621083' status='passed' stop='1627816626470'>
+                    <name>And I answer Office Question</name>
+                    <title>And I answer Office Question</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816626470' status='passed' stop='1627816632646'>
+                    <name>And I answer Restaurant Question</name>
+                    <title>And I answer Restaurant Question</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816632646' status='passed' stop='1627816637751'>
+                    <name>Then I check the leaderboard</name>
+                    <title>Then I check the leaderboard</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816637759' status='passed' stop='1627816670900'>
+            <name>Answer the public place question incorrectly</name>
+            <title>Answer the public place question incorrectly</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='2'/>
+            </parameters>
+            <steps>
+                <step start='1627816637762' status='passed' stop='1627816643888'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816643888' status='passed' stop='1627816649198'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816649198' status='passed' stop='1627816657436'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816657436' status='passed' stop='1627816659520'>
+                    <name>Then I choose Are You Game battle field</name>
+                    <title>Then I choose Are You Game battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816659520' status='passed' stop='1627816661680'>
+                    <name>When I click Start button</name>
+                    <title>When I click Start button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816661680' status='passed' stop='1627816668828'>
+                    <name>Then I answer Bus Question incorrectly</name>
+                    <title>Then I answer Bus Question incorrectly</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816668829' status='passed' stop='1627816670897'>
+                    <name>Then I Verify navigate to Home Page</name>
+                    <title>Then I Verify navigate to Home Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816670904' status='passed' stop='1627816710267'>
+            <name>Answer the office question incorrectly</name>
+            <title>Answer the office question incorrectly</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='3'/>
+            </parameters>
+            <steps>
+                <step start='1627816670907' status='passed' stop='1627816677484'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816677484' status='passed' stop='1627816682770'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816682770' status='passed' stop='1627816691658'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816691658' status='passed' stop='1627816693925'>
+                    <name>Then I choose Are You Game battle field</name>
+                    <title>Then I choose Are You Game battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816693925' status='passed' stop='1627816696084'>
+                    <name>When I click Start button</name>
+                    <title>When I click Start button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816696084' status='passed' stop='1627816701355'>
+                    <name>Then I answer Bus Question</name>
+                    <title>Then I answer Bus Question</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816701355' status='passed' stop='1627816708166'>
+                    <name>And I answer Office Question incorrectly</name>
+                    <title>And I answer Office Question incorrectly</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816708166' status='passed' stop='1627816710265'>
+                    <name>Then I Verify navigate to Home Page</name>
+                    <title>Then I Verify navigate to Home Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816710269' status='passed' stop='1627816753743'>
+            <name>Answer the restaurant question incorrectly</name>
+            <title>Answer the restaurant question incorrectly</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='4'/>
+            </parameters>
+            <steps>
+                <step start='1627816710272' status='passed' stop='1627816716905'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816716906' status='passed' stop='1627816722142'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816722143' status='passed' stop='1627816730461'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816730461' status='passed' stop='1627816732424'>
+                    <name>Then I choose Are You Game battle field</name>
+                    <title>Then I choose Are You Game battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816732425' status='passed' stop='1627816734527'>
+                    <name>When I click Start button</name>
+                    <title>When I click Start button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816734527' status='passed' stop='1627816739866'>
+                    <name>Then I answer Bus Question</name>
+                    <title>Then I answer Bus Question</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816739867' status='passed' stop='1627816745150'>
+                    <name>And I answer Office Question</name>
+                    <title>And I answer Office Question</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816745150' status='passed' stop='1627816751635'>
+                    <name>And I answer Restaurant Question incorrectly</name>
+                    <title>And I answer Restaurant Question incorrectly</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816751635' status='passed' stop='1627816753740'>
+                    <name>Then I Verify navigate to Home Page</name>
+                    <title>Then I Verify navigate to Home Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816753744' status='passed' stop='1627816808534'>
+            <name>Return to Home Page after timeout</name>
+            <title>Return to Home Page after timeout</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='5'/>
+            </parameters>
+            <steps>
+                <step start='1627816753746' status='passed' stop='1627816760165'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816760165' status='passed' stop='1627816765430'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816765430' status='passed' stop='1627816774078'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816774078' status='passed' stop='1627816776021'>
+                    <name>Then I choose Are You Game battle field</name>
+                    <title>Then I choose Are You Game battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816776022' status='passed' stop='1627816778164'>
+                    <name>When I click Start button</name>
+                    <title>When I click Start button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816778167' status='passed' stop='1627816806430'>
+                    <name>Then I wait without answering first question and try again</name>
+                    <title>Then I wait without answering first question and try again</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816806430' status='passed' stop='1627816808532'>
+                    <name>Then I Verify navigate to Home Page</name>
+                    <title>Then I Verify navigate to Home Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

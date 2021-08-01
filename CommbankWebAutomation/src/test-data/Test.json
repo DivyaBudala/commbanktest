@@ -1,0 +1,38 @@
+{
+  "HomePage": {
+    "ApplicationURL": "https://responsivefight.herokuapp.com/",
+    "PageTitle": " COVID-19 THE GAME "
+  },
+
+  "CreateWarrior": {
+    "WarriorName": "Sanitizer",
+    "LongWarriorName": "SanitizerTest",
+    "WarriorNameLengthMessage": "Only use 10 characters"
+  },
+  "Questions": {
+    "You must travel to buy food and medical supplies?_CorrectAnswer": "Use your superheroes Mask and sanitizer while traveling on public transport and clean your hands regularly.",
+    "You must travel to buy food and medical supplies?_InCorrectAnswer": "Please consider travelling during peak times, when more help is available to you",
+
+    "You notice a large group of people waiting in line next to each other at a restaurant, what do you do?_CorrectAnswer": "Use your super hero sanitizer, keep a safe distance and advise they should keep 1.5 metres away from others.",
+    "You notice a large group of people waiting in line next to each other at a restaurant, what do you do?_InCorrectAnswer": "move away immediately call the police!",
+
+    "Your coworker Markus, is constantly coughing in the office, what do you do?_CorrectAnswer": "Use your superhero Social Distance and notify your Manager.",
+    "Your coworker Markus, is constantly coughing in the office, what do you do?_InCorrectAnswer": "Keep it to yourself, do not draw attention, and pretend you did not notice!"
+  },
+  "AreYouGame": {
+    "QuestionCorrectResult": "That is correct!",
+    "QuestionInCorrectResult": "Oh no!",
+    "ExpectedScore": "300"
+  },
+
+  "TakeBus": {
+    "QuestionCorrectResult": "That is correct!",
+    "QuestionInCorrectResult": "That doesn't sound right!",
+    "ExpectedScore": "100"
+  },
+  "Office": {
+    "QuestionCorrectResult": "That is correct!",
+    "QuestionInCorrectResult": "That doesn't sound right!",
+    "ExpectedScore": "100"
+  }
+}

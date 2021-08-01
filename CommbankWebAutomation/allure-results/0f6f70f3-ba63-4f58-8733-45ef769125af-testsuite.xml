@@ -1,0 +1,323 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1627816812910' stop='1627817109783'>
+    <name>Commbank -- Run Take the Bus BattleField Tests</name>
+    <title>Commbank -- Run Take the Bus BattleField Tests</title>
+    <test-cases>
+        <test-case start='1627816812924' status='passed' stop='1627816859763'>
+            <name>Answer the Questions and check final score</name>
+            <title>Answer the Questions and check final score</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='1'/>
+            </parameters>
+            <steps>
+                <step start='1627816812928' status='passed' stop='1627816822459'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816822459' status='passed' stop='1627816827773'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816827774' status='passed' stop='1627816841384'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816841384' status='passed' stop='1627816848324'>
+                    <name>Then I choose take the bus battle field</name>
+                    <title>Then I choose take the bus battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816848325' status='passed' stop='1627816850431'>
+                    <name>When I click Start button in take bus battle page</name>
+                    <title>When I click Start button in take bus battle page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816850431' status='passed' stop='1627816855698'>
+                    <name>Then I answer Bus battle Question 1</name>
+                    <title>Then I answer Bus battle Question 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816855698' status='passed' stop='1627816859753'>
+                    <name>Then I verify score</name>
+                    <title>Then I verify score</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816859766' status='passed' stop='1627816897907'>
+            <name>Answer the Question incorrectly and try again</name>
+            <title>Answer the Question incorrectly and try again</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='2'/>
+            </parameters>
+            <steps>
+                <step start='1627816859771' status='passed' stop='1627816866044'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816866044' status='passed' stop='1627816871324'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816871324' status='passed' stop='1627816879653'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816879653' status='passed' stop='1627816881666'>
+                    <name>Then I choose take the bus battle field</name>
+                    <title>Then I choose take the bus battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816881666' status='passed' stop='1627816883769'>
+                    <name>When I click Start button in take bus battle page</name>
+                    <title>When I click Start button in take bus battle page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816883769' status='passed' stop='1627816889057'>
+                    <name>Then I answer Bus battle Question 1 incorrectly and Try Again</name>
+                    <title>Then I answer Bus battle Question 1 incorrectly and Try Again</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816889057' status='passed' stop='1627816894276'>
+                    <name>And I answer Bus battle Question 1</name>
+                    <title>And I answer Bus battle Question 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816894277' status='passed' stop='1627816897904'>
+                    <name>Then I verify score</name>
+                    <title>Then I verify score</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816897909' status='passed' stop='1627816958916'>
+            <name>Try again the Question after timeout</name>
+            <title>Try again the Question after timeout</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='3'/>
+            </parameters>
+            <steps>
+                <step start='1627816897912' status='passed' stop='1627816904449'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816904449' status='passed' stop='1627816909727'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816909727' status='passed' stop='1627816918148'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816918149' status='passed' stop='1627816920381'>
+                    <name>Then I choose take the bus battle field</name>
+                    <title>Then I choose take the bus battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816920382' status='passed' stop='1627816922489'>
+                    <name>When I click Start button in take bus battle page</name>
+                    <title>When I click Start button in take bus battle page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816922489' status='passed' stop='1627816949570'>
+                    <name>Then I wait without answering bus question for timeout and try again</name>
+                    <title>Then I wait without answering bus question for timeout and try again</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816949570' status='passed' stop='1627816954804'>
+                    <name>And I answer Bus battle Question 1</name>
+                    <title>And I answer Bus battle Question 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816954804' status='passed' stop='1627816958913'>
+                    <name>Then I verify score</name>
+                    <title>Then I verify score</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627816958919' status='passed' stop='1627817012078'>
+            <name>Return to Home page after timeout</name>
+            <title>Return to Home page after timeout</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='4'/>
+            </parameters>
+            <steps>
+                <step start='1627816958922' status='passed' stop='1627816965678'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816965678' status='passed' stop='1627816970933'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816970933' status='passed' stop='1627816979587'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816979587' status='passed' stop='1627816981710'>
+                    <name>Then I choose take the bus battle field</name>
+                    <title>Then I choose take the bus battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816981710' status='passed' stop='1627816983826'>
+                    <name>When I click Start button in take bus battle page</name>
+                    <title>When I click Start button in take bus battle page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627816983827' status='passed' stop='1627817012032'>
+                    <name>Then I wait without answering bus question for timeout and return to Home</name>
+                    <title>Then I wait without answering bus question for timeout and return to Home</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817012032' status='passed' stop='1627817012077'>
+                    <name>Then I Verify navigate to BattleField Page</name>
+                    <title>Then I Verify navigate to BattleField Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627817012079' status='broken' stop='1627817109778'>
+            <name>Answer the Questions and try next battle</name>
+            <title>Answer the Questions and try next battle</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='5'/>
+            </parameters>
+            <steps>
+                <step start='1627817012082' status='passed' stop='1627817018625'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817018625' status='passed' stop='1627817023906'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817023906' status='passed' stop='1627817032436'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817032436' status='passed' stop='1627817034536'>
+                    <name>Then I choose take the bus battle field</name>
+                    <title>Then I choose take the bus battle field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817034536' status='passed' stop='1627817036655'>
+                    <name>When I click Start button in take bus battle page</name>
+                    <title>When I click Start button in take bus battle page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817036656' status='passed' stop='1627817041865'>
+                    <name>Then I answer Bus battle Question 1</name>
+                    <title>Then I answer Bus battle Question 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817041865' status='broken' stop='1627817109778'>
+                    <name>And I try next battle</name>
+                    <title>And I try next battle</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='f9ddac01-5250-47a5-9565-786931a725f5-attachment.png' type='image/png' size='416244'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Can't call getText on element with selector "//p[@id="question"]" because element wasn't found</message>
+                <stack-trace>Error: Can't call getText on element with selector "//p[@id="question"]" because element wasn't found
+                    at implicitWait (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\webdriverio\build\utils\implicitWait.js:22:13)
+                    at Element.runCommandWithHooks (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\@wdio\sync\build\wrapCommand.js:82:22)
+                    at Element.wrapCommandFn (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\@wdio\sync\build\wrapCommand.js:59:40)
+                    at Element.elementErrorHandlerCallback (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\webdriverio\build\middlewares.js:40:8)
+                    at BusTests.TryNextBattle (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\src\step-definitions\BusTests.steps.ts:49:60)
+                    at World.bindingFunc (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\cucumber-tsflow\src\binding-decorator.ts:172:22)
+                    at World.executeSync (C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\@wdio\sync\build\index.js:44:18)
+                    at C:\Users\1027249\Desktop\Commbank\CommbankWebAutomation\node_modules\@wdio\sync\build\index.js:84:70</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1627817114192' stop='1627817170658'>
+    <name>Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)</name>
+    <title>Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)</title>
+    <test-cases>
+        <test-case start='1627817114206' status='passed' stop='1627817149630'>
+            <name>Create a Covid-19 Super Hero</name>
+            <title>Create a Covid-19 Super Hero</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='1'/>
+            </parameters>
+            <steps>
+                <step start='1627817114210' status='passed' stop='1627817124295'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817124296' status='passed' stop='1627817129574'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817129574' status='passed' stop='1627817144576'>
+                    <name>And I click Create warrior button</name>
+                    <title>And I click Create warrior button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817144576' status='passed' stop='1627817149625'>
+                    <name>Then I Verify warrior is created successfully</name>
+                    <title>Then I Verify warrior is created successfully</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1627817149631' status='passed' stop='1627817170657'>
+            <name>Warrior Name Can't be more than 10 Characters</name>
+            <title>Warrior Name Can't be more than 10 Characters</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='argument' name='Scenario #' value='2'/>
+            </parameters>
+            <steps>
+                <step start='1627817149634' status='passed' stop='1627817156036'>
+                    <name>Given I Navigate to Covid19 Game Application</name>
+                    <title>Given I Navigate to Covid19 Game Application</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817156036' status='passed' stop='1627817161298'>
+                    <name>Then I enter Warrior Name</name>
+                    <title>Then I enter Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817161299' status='passed' stop='1627817163371'>
+                    <name>Then I verify information message</name>
+                    <title>Then I verify information message</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817163372' status='passed' stop='1627817168595'>
+                    <name>Then I enter long Warrior Name</name>
+                    <title>Then I enter long Warrior Name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1627817168595' status='passed' stop='1627817170654'>
+                    <name>And I verify length of warrior name is 10 characters</name>
+                    <title>And I verify length of warrior name is 10 characters</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

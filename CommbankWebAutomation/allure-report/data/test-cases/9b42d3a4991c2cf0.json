@@ -1,0 +1,146 @@
+{
+  "uid" : "9b42d3a4991c2cf0",
+  "name" : "Warrior Name Can't be more than 10 Characters",
+  "fullName" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain).Warrior Name Can't be more than 10 Characters",
+  "historyId" : "fc42ac2405ecb003496a932fbf100205",
+  "time" : {
+    "start" : 1627817149631,
+    "stop" : 1627817170657,
+    "duration" : 21026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I Navigate to Covid19 Game Application",
+      "time" : {
+        "start" : 1627817149634,
+        "stop" : 1627817156036,
+        "duration" : 6402
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter Warrior Name",
+      "time" : {
+        "start" : 1627817156036,
+        "stop" : 1627817161298,
+        "duration" : 5262
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I verify information message",
+      "time" : {
+        "start" : 1627817161299,
+        "stop" : 1627817163371,
+        "duration" : 2072
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter long Warrior Name",
+      "time" : {
+        "start" : 1627817163372,
+        "stop" : 1627817168595,
+        "duration" : 5223
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I verify length of warrior name is 10 characters",
+      "time" : {
+        "start" : 1627817168595,
+        "stop" : 1627817170654,
+        "duration" : 2059
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)"
+  }, {
+    "name" : "testClass",
+    "value" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Warrior Name Can't be more than 10 Characters"
+  }, {
+    "name" : "package",
+    "value" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Scenario #",
+    "value" : "2"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b42d3a4991c2cf0.json",
+  "parameterValues" : [ "2", "chrome" ]
+}

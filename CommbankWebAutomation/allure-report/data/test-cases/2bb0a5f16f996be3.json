@@ -1,0 +1,131 @@
+{
+  "uid" : "2bb0a5f16f996be3",
+  "name" : "Create a Covid-19 Super Hero",
+  "fullName" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain).Create a Covid-19 Super Hero",
+  "historyId" : "c73d9c42052457441349227bbd92c45e",
+  "time" : {
+    "start" : 1627817114206,
+    "stop" : 1627817149630,
+    "duration" : 35424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I Navigate to Covid19 Game Application",
+      "time" : {
+        "start" : 1627817114210,
+        "stop" : 1627817124295,
+        "duration" : 10085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I enter Warrior Name",
+      "time" : {
+        "start" : 1627817124296,
+        "stop" : 1627817129574,
+        "duration" : 5278
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And I click Create warrior button",
+      "time" : {
+        "start" : 1627817129574,
+        "stop" : 1627817144576,
+        "duration" : 15002
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I Verify warrior is created successfully",
+      "time" : {
+        "start" : 1627817144576,
+        "stop" : 1627817149625,
+        "duration" : 5049
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)"
+  }, {
+    "name" : "testClass",
+    "value" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create a Covid-19 Super Hero"
+  }, {
+    "name" : "package",
+    "value" : "Commbank -- Create Warrior(Super Hero) to fight Covid-19(Super Villain)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Scenario #",
+    "value" : "1"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bb0a5f16f996be3.json",
+  "parameterValues" : [ "1", "chrome" ]
+}
